@@ -4,8 +4,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning asyncIO, c++, web developement(very soon)
+- 🔭 I’m currently working on uh idk
+- 🌱 I’m currently learning python(asyncIO), c++, web developement(very soon)
 - 👯 I’m looking to collaborate with anyone 
 - 💬 Ask me about: (Don't ask me, I am still an absolute noob in this field.)
 - 📫 How to reach me: Discord , StAx#6239
