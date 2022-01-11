@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 welcome here :bowtie:
 
 Please sign my guessbook
-:point_downQ
+:point_down:
 
 <a href=></a>
