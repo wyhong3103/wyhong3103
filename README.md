@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 <img src="https://media.giphy.com/media/lXiRoPt9Rkzt7yLYY/giphy.gif"/>
 
 
-Please sign my guessbook
+Please sign my guestbook
 :point_down:
 
 <a href="https://gist.github.com/wyhong3103/e804c37d33c220a8a373e7246440b499"><img src="https://raw.githubusercontent.com/wyhong3103/wyhong3103/main/guestbook.gif"/></a>
