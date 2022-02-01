@@ -4,7 +4,6 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on uh idk
 - 🌱 I’m currently learning python, c++, web developement
 - 👯 I’m looking to collaborate with anyone 
 - 💬 Ask me about: (Don't ask me, I am still an absolute noob in this field.)
