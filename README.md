@@ -10,9 +10,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Discord , StAx#6239
 - 😄 Pronouns: HE
 - ⚡ Fun fact: I LIKE TURTLE
--->
 <img src="https://media.giphy.com/media/lXiRoPt9Rkzt7yLYY/giphy.gif"/>
-
+-->
 
 Please sign my guestbook
 :point_down:
