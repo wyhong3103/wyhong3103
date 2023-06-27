@@ -13,9 +13,11 @@ I like to challenge myself :D. <br>
 [LinkedIn](https://www.linkedin.com/in/wong-yen-hong/) and [Codeforces](https://codeforces.com/profile/wyhong3103)
 
 ## Stats
+<div align="center">
+  ![GITHUB README CARD](https://github-readme-stats.vercel.app/api?username=wyhong3103&show_icons=true&theme=transparent&rank_icon=github)
+</div>
 
-![GITHUB README CARD](https://github-readme-stats.vercel.app/api?username=wyhong3103&show_icons=true&theme=transparent&rank_icon=github)
-
-![CF README CARD](https://raw.githubusercontent.com/wyhong3103/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-
+<div align="center">
+  ![CF README CARD](https://raw.githubusercontent.com/wyhong3103/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+</div>
 Please also sign my [guestbook](https://gist.github.com/wyhong3103/e804c37d33c220a8a373e7246440b499).
