@@ -14,10 +14,11 @@ I like to challenge myself :D. <br>
 
 ## Stats
 <div align="center">
-  ![GITHUB README CARD](https://github-readme-stats.vercel.app/api?username=wyhong3103&show_icons=true&theme=transparent&rank_icon=github)
+  <img src="https://github-readme-stats.vercel.app/api?username=wyhong3103&show_icons=true&theme=transparent&rank_icon=github" alt="GITHUB STATS">
 </div>
 
 <div align="center">
-  ![CF README CARD](https://raw.githubusercontent.com/wyhong3103/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+  
+  <img src="https://raw.githubusercontent.com/wyhong3103/cf-stats/main/output/light_card.svg#gh-dark-mode-only" alt="CF STATS">
 </div>
 Please also sign my [guestbook](https://gist.github.com/wyhong3103/e804c37d33c220a8a373e7246440b499).
