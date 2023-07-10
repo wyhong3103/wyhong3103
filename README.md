@@ -6,7 +6,7 @@ I like to challenge myself :D. <br>
 
 ## Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=cpp,py,js,html,css,react,redux,nodejs,firebase,java,git,vim)
+![Tech Stack](https://skillicons.dev/icons?i=cpp,py,js,html,css,react,redux,nodejs,express,mongodb,firebase,java,git,vim)
 
 ## Connect with me
 
