@@ -4,6 +4,10 @@ I am a Computer Science Student, currently studying at Multimedia University.  <
 I do competitive programming and web development. <br>
 I like to challenge myself :D. <br>
 
+## More about me
+
+[My personal website](https://wyhong3103.vercel.app/)
+
 ## Tech Stack
 
 ![Tech Stack](https://skillicons.dev/icons?i=cpp,py,js,html,css,react,redux,nodejs,express,mongodb,firebase,java,git,vim)
@@ -18,7 +22,6 @@ I like to challenge myself :D. <br>
 </div>
 
 <div align="center">
-  
   <img src="https://raw.githubusercontent.com/wyhong3103/cf-stats/main/output/light_card.svg#gh-dark-mode-only" alt="CF STATS">
 </div>
 
