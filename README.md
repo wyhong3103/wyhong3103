@@ -1,20 +1,20 @@
-## Halo, I am Yen Hong!
+## Hi, I am Yen Hong!
 
-I am a Computer Science Student, currently studying at Multimedia University.  <br>
-I do competitive programming and web development. <br>
-I like to challenge myself :D. <br>
-
-## More about me
-
-[My personal website](https://wyhong3103.vercel.app/)
+I am studying Computer Science at Multimedia University, and I do competitive programming (semi-retired), web development (learning), and sometimes machine learning (learning).
 
 ## Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=cpp,py,js,html,css,react,redux,nodejs,express,mongodb,firebase,java,git,vim)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,py,js,html,css,react,redux,nodejs,express,mongodb,firebase,java,git,vim" alt="GITHUB STATS">
+</div>
 
 ## Connect with me
+- [Personal Website](https://wyhong3103.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/wong-yen-hong/)
+- [Codeforces](https://codeforces.com/profile/wyhong3103)
 
-[LinkedIn](https://www.linkedin.com/in/wong-yen-hong/) and [Codeforces](https://codeforces.com/profile/wyhong3103)
+<!--
+![Tech Stack](https://skillicons.dev/icons?i=cpp,py,js,html,css,react,redux,nodejs,express,mongodb,firebase,java,git,vim)
 
 ## Stats
 <div align="center">
@@ -24,5 +24,7 @@ I like to challenge myself :D. <br>
 <div align="center">
   <img src="https://raw.githubusercontent.com/wyhong3103/cf-stats/main/output/light_card.svg#gh-dark-mode-only" alt="CF STATS">
 </div>
+-->
+<br>
 
-Please also sign my [guestbook](https://gist.github.com/wyhong3103/e804c37d33c220a8a373e7246440b499).
+Before you leave, please also sign my [guestbook](https://gist.github.com/wyhong3103/e804c37d33c220a8a373e7246440b499):laughing:.
