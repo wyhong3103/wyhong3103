@@ -9,7 +9,7 @@ I am studying Computer Science at Multimedia University, and I do competitive pr
 </div>
 
 ## Connect with me
-- [Personal Website](https://wyhong3103.vercel.app/)
+- [Personal Website](https://www.wyhong3103.tech/)
 - [LinkedIn](https://www.linkedin.com/in/wong-yen-hong/)
 - [Codeforces](https://codeforces.com/profile/wyhong3103)
 
