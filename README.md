@@ -5,7 +5,7 @@ I am studying Computer Science at Multimedia University, and I do competitive pr
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,py,js,html,css,react,redux,nodejs,express,mongodb,firebase,java,git,vim" alt="GITHUB STATS">
+  <img src="https://skillicons.dev/icons?i=cpp,py,tensorflow,pytorch,js,html,css,java,react,nextjs,nodejs,express,nestjs,mongodb,firebase,aws,docker,git,github,vim" alt="GITHUB STATS">
 </div>
 
 ## Connect with me
