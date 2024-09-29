@@ -1,6 +1,6 @@
 ### About me
 
-I am a Computer Science Undergraduate at [Multimedia University](https://en.wikipedia.org/wiki/Multimedia_University), currently interning as a Data Scientist at [MoneyLion](https://www.moneylion.com/). I enjoy solving problems and reading about cool concepts. I spent [a lot of time](https://codeforces.com/profile/wyhong3103) in competitive programming from 2022 to 2023 and won several competitions. Recently, my focus has shifted towards machine learning.
+I am a Computer Science Undergraduate at [Multimedia University](https://en.wikipedia.org/wiki/Multimedia_University), currently interning as a Data Scientist at [MoneyLion](https://www.moneylion.com/). I enjoy solving problems and reading about cool concepts. I spent a lot of time in [competitive programming](https://codeforces.com/profile/wyhong3103) from 2022 to 2023 and won several competitions. Recently, my focus has shifted towards machine learning.
 
 ### Connect with me
 - [Personal Website](https://wyhong3103.tech/)
